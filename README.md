@@ -16,7 +16,7 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 💬 Ask me about anything related to **Java**, **Spring Boot**, **React**, and **MySQL**
-- 📫 Reach me at: `subhadeepkumbhakar@gmail.com`
+- 📫 Reach me at: `subhadeepkumbhakar116@gmail.com`
 - 🧠 Fun Fact: I love breaking things to learn how they work 🔍
 
 ---
