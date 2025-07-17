@@ -7,7 +7,7 @@
 
 ## 🧑‍💻 About Me
 
-- 💼 I'm currently working on: `School Management System` (Spring Boot + React)
+- 💼 I'm currently working on: `Student Management System` (Spring Boot + React)
 - 🌱 Learning: **Spring Security**, **JWT Auth**, **React Context & Hooks**
 - 🛠️ Tech Stack:  
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -45,7 +45,7 @@
 
 ## 🚀 Projects
 
-- [🎓 School Management System](https://github.com/Subhadeep116/school-management-system)
+<!-- - [🎓 School Management System](https://github.com/Subhadeep116/school-management-system)-->
 - [📘 Student Management System](https://github.com/Subhadeep116/student-management-system)
 
 ---
